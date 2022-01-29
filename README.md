@@ -21,14 +21,9 @@ Find me at-
 Hi, I'm Kanishk Agarwal, a passionate self-taught front-end web developer and pursuing computer science engineering from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build and develope.
 
 i am also an open-source enthusiast and I want to learn more from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-<p align="right">📈 my github stats <br /><img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
   
-<p align="left">  
- <br />
-**languages and tools:**  
-
+<p align="left"> <br />
+**languages and tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -36,4 +31,6 @@ i am also an open-source enthusiast and I want to learn more from the open-sourc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </p>
 
+<p align="right">📈 my github stats <br /><img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
