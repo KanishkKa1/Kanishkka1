@@ -32,7 +32,7 @@ Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-
   
 <p align="left"> 
 <br />
-##### **languages and tools:**
+**languages and tools:**
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -41,14 +41,14 @@ Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </p>
  
-<p align="center">📈 my github stats 
+<p align="center">📈 My github stats 
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
 </p>
 <br />
 <br />
-<p align="center">Languages used in some of my projects
+<p align="center"> Languages used in my projects
 <br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnamedka1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="unnamdeka1" /></p>
 
