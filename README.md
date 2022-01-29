@@ -41,8 +41,14 @@ Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </p>
  
-<p align="center">📈 my github stats <br /><img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
-
+<p align="center">📈 my github stats 
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
+<br />
+<br />
+Languages used in some of my projects
+<br /><br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnamedka1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="unnamdeka1" /></p>
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=unnamedka1.visitor-badge)
