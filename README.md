@@ -23,7 +23,7 @@ Hi, I'm Kanishk Agarwal, a passionate self-taught front-end web developer and pu
 i am also an open-source enthusiast and I want to learn more from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<p align="right">📈 my github stats <img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
+<p align="right">📈 my github stats <br /><img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
   
 <p align="left">  
  <br />
