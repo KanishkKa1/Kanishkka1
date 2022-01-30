@@ -25,6 +25,11 @@
 - ✨ Playing games
 - ✨ Badminton (Neighbourhood Professional XD)
 <br />
+<br />
+
+### Understand ⥂Think⥂Implement
+<br />
+<br />
 
 Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-end web and game developer who is pursuing computer science engineering from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build and develope.
 
