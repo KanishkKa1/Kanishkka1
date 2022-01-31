@@ -11,7 +11,6 @@
 <a href="https://www.instagram.com/_kanishk_agarwal_/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
 <a href="https://twitter.com/Kanishk2kan" alt="Twitter"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png"></a>
 <br />
-<br />
 
 #### **unnamedka1-_Kanishk_Agarwal_** is ✨ _special_ ✨
 
@@ -19,20 +18,20 @@
 - 👯 I’m looking to collaborate on new projects.
 - 📫 How to reach me: mail-id (agarwalkanishk12345@gmail.com)
 - 😄 Pronouns: He/him
+- 🤙 want to learn more skills
+
 ##### Hobbies :-
 - ✨ coding Addict
 - ✨ Watching Anime
 - ✨ Playing games
 - ✨ Badminton (Neighbourhood Professional XD)
 <br />
-<br />
 
 ### Understand ⥂Think⥂Implement
 <br />
-<br />
-
+<b>
 Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-end web and game developer who is pursuing computer science engineering from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build and develope.
-
+</b>
 <!-- i am also an open-source enthusiast and I want to learn more from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
   
 <p align="left"> 
@@ -62,8 +61,6 @@ Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnamedka1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="unnamdeka1" /></p>
 
 
-<!-- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=unnamedka1.visitor-badge) -->
-
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi,or you want to reach out to me about anything or just to hangout and talk or want to game together just ping me 🤙🤙. I'll be happy to meet you!</b> :)</em>
