@@ -60,8 +60,6 @@ Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-
 <br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnamedka1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="unnamdeka1" /></p>
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=unnamedka1.visitor-badge&left_text=MyPageVisitors)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=unnamedka1.unnamedka1)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi,or you want to reach out to me about anything or just to hangout and talk or want to game together just ping me 🤙🤙. I'll be happy to meet you!</b> :)</em>
