@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/kanishk-agarwal-8096241b6/">
   <img align="left" alt="Kanishk's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/5ylcik925wtayk941327g7n7l?si=d3fc10a6f7df459a">
-  <img align="left" alt="Kanishk's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://www.instagram.com/_kanishk_agarwal_/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
 <a href="https://twitter.com/Kanishk2kan" alt="Twitter"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png"></a>
 <br />
