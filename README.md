@@ -8,7 +8,7 @@
     <a href="https://instagram.com/_kanishk_agarwal_?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://twitter.com/Kanishk2kan" target="_blank" alt="Twitter"><img width="25px" alt="twitter"
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a>
-    <a href="mailto:agarwalkanishk12345@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="mailto::agarwalkanishk12345@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
 
 #### **unnamedka1-_Kanishk_Agarwal_** is ✨ _special_ ✨
