@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### Find me at- 
-<br />
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
 <a href="https://www.linkedin.com/in/kanishk-agarwal-8096241b6/">
   <img align="left" alt="Kanishk's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
