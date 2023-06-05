@@ -15,7 +15,6 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitt
 
 - 🌱 I’m currently learning React and node.js
 - 👯 I’m looking to collaborate on new projects.
-- 📫 How to reach me: mail-id (agarwalkanishk12345@gmail.com)
 - 😄 Pronouns: He/him
 - 🤙 want to learn more skills
 
@@ -29,7 +28,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitt
 ### Understand ⥂Think⥂Implement
 <br />
 <b>
-Hi, I'm Kanishk Agarwal, a passionate self-taught video editor along with front-end web and game developer who is pursuing computer science engineering from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build and develope.
+Hi, I'm Kanishk Agarwal, a passionate and a self-taught video editor along with front-end web and game developer who has gained knowledge in the field of machine learning and following the dream to become the data scientist. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build and develope.
 </b>
 <!-- i am also an open-source enthusiast and I want to learn more from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
   
