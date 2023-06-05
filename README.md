@@ -5,15 +5,11 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/kanishkaga/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://www.instagram.com/milaanparmar9" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
-    <a href="https://www.facebook.com/milaanparmar" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
-    <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="https://instagram.com/_kanishk_agarwal_?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://twitter.com/Kanishk2kan" alt="Twitter"><img width="25px" alt="twitter"
+src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png"></a>
+    <a href="mailto:agarwalkanishk12345@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"></a> 
 </p>  
-
-
-<br/><a href="https://www.instagram.com/_kanishk_agarwal_/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
-<a href="https://twitter.com/Kanishk2kan" alt="Twitter"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png"></a>
-<br />
 
 #### **unnamedka1-_Kanishk_Agarwal_** is ✨ _special_ ✨
 
