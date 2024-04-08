@@ -11,7 +11,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitt
     <a id="mailto" target="_newtab" href="mailto::agarwalkanishk12345@gmail.com"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
 
-#### **unnamedka1-_Kanishk_Agarwal_** is ✨ _special_ ✨
+#### **Kanishkka1-_Kanishk_Agarwal_** is ✨ _special_ ✨
 
 - 🌱 I’m currently learning React and node.js
 - 👯 I’m looking to collaborate on new projects.
@@ -50,14 +50,14 @@ Hi, I'm Kanishk Agarwal, a passionate and a self-taught video editor along with 
 <p align="center">📈 My github stats 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=unnamedka1&show_icons=true&theme=gotham" alt="unnamedka1" />
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkka1&show_icons=true&theme=gotham" alt="Kanishkka1" />
 </p>
 <br />
 <br />
 <p align="center"> Languages used in my projects
 <br /><br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unnamedka1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="unnamdeka1" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kanishkka1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Kanishkka1" /></p>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=unnamedka1.unnamedka1)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Kanishkka1.Kanishkka1)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi,or you want to reach out to me about anything or just to hangout and talk or want to game together just ping me 🤙🤙. I'll be happy to meet you!</b> :)</em>
