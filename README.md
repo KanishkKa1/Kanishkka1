@@ -1,6 +1,7 @@
 # 👋 Kanishk Agarwal  
 
-### ⚡ C++ Systems Engineer | Concurrency | AI Infrastructure  
+### Associate SDE @ Harman International | C++17 · Concurrency · Embedded Systems | Open to SDE roles
+#### ⚡ C++ Systems Engineer | Concurrency | AI Infrastructure  
 
 I build **high-performance backend systems** with strict invariants, controlled concurrency, and predictable failure modes — extending into **agentic AI infrastructure and LLM orchestration systems**.
 
