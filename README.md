@@ -1,37 +1,37 @@
 # 👋 Kanishk Agarwal
 
-### ⚙️ C++ Systems Engineer | 🤖 AI Agents & MLOps | 🧠 Concurrency-Driven Design
+### ⚙️ C++ Systems Engineer (C++17/20) | 🤖 AI Agents & MLOps | 🧠 Concurrency-Driven Design
 
-I design **high-performance backend systems** with strong invariants, concurrency safety, and real-world reliability — now extending that foundation into **Agentic AI workflows and LLM-powered systems**.
+I build **high-performance backend systems** with strict invariants, concurrency guarantees, and production-grade reliability — now extending into **Agentic AI systems and LLM orchestration**.
 
 - 🏢 Associate Software Engineer @ Harman International  
-- ⚡ Focus: Modern C++ (C++17), Multithreading, System Design  
-- 🤖 Exploring: LangGraph, MCP (Model Context Protocol), AI Agents  
-- 🧪 Builder mindset: I don’t just use abstractions — I **build them from scratch**
+- ⚡ Focus: C++ (17/20), Multithreading, System Design  
+- 🤖 Exploring: LangGraph, MCP, AI Agents  
+- 🧪 Philosophy: Build abstractions → don’t just consume them  
 
 ---
 
 ## 📈 Experience Timeline
 
-| Role | Organization | Timeline | Key Impact |
-|------|-------------|---------|-----------|
-| **Associate Software Engineer** | Harman International | Jan 2025 – Present | Built concurrency-safe backend workflows, improved system reliability to >99%, eliminated >90% invalid states |
-| **ML Engineer Intern** | Assisto Technologies | Jan 2024 – May 2024 | Developed RAG pipelines, optimized inference latency by 30%, deployed CV systems using YOLOv8 |
+| Role | Organization | Timeline | Impact |
+|------|-------------|---------|--------|
+| **Associate Software Engineer** | Harman International | Jan 2025 – Present | Improved system reliability to >99%, eliminated >90% invalid states |
+| **ML Engineer Intern** | Assisto Technologies | Jan 2024 – May 2024 | Reduced inference latency by 30%, built RAG + CV systems |
 
 ---
 
 ## 🧠 Technical Arsenal
 
 ### ⚙️ Systems
-![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-17%20%7C%2020-blue?style=for-the-badge&logo=cplusplus)
 ![Multithreading](https://img.shields.io/badge/Multithreading-Concurrency-red?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-Core-purple?style=for-the-badge&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-Core%20%7C%20MVC-purple?style=for-the-badge&logo=dotnet)
 
 ### 🤖 AI / ML
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-black?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-darkgreen?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?style=for-the-badge&logo=pytorch)
-![ONNX](https://img.shields.io/badge/ONNX-Model%20Interop-blue?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-Interop-blue?style=for-the-badge)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-yellow?style=for-the-badge)
 
 ### 📊 Data & Ops
@@ -42,31 +42,41 @@ I design **high-performance backend systems** with strong invariants, concurrenc
 
 ---
 
-## 🧪 In The Lab
+## ⚡ Engineering Philosophy
 
-### 🔧 Custom STL-like `vector<T>`
-**Goal:** Understand memory, performance, and abstraction boundaries beyond STL
+> “Correctness first. Performance next. Abstractions last.”
 
-- Implemented **manual memory management** with allocator strategy  
-- Designed **Rule of Five-compliant class** with strong exception safety  
-- Achieved **amortized O(1) push_back** via geometric resizing  
-- Benchmarked cache locality vs `std::vector`  
-- Debugged allocation patterns using **gdb & profiling tools**
-
-> 🔍 Focus: Low-level design, invariants, memory correctness
+- Invariants > assumptions  
+- Measure before optimizing  
+- Systems should fail **predictably**, not silently  
 
 ---
 
+## 🧪 In The Lab
+
+### 🔧 Custom STL-like `vector<T>`
+- Manual memory management + Rule of Five  
+- Amortized O(1) growth via geometric resizing  
+- Benchmarked vs `std::vector` for cache + allocation  
+
 ### ⚡ Multithreaded Task Scheduler
-**Goal:** Build a production-grade concurrency system from primitives
+- Thread pool + producer-consumer queue  
+- `mutex` + `condition_variable` synchronization  
+- Deterministic shutdown, race-free execution  
 
-- Designed **thread pool with worker lifecycle management**
-- Built **thread-safe producer-consumer queue**
-- Used `std::mutex` + `condition_variable` for coordination
-- Implemented **deterministic shutdown semantics**
-- Eliminated race conditions via **invariant-based synchronization**
+---
 
-> 🔍 Focus: Concurrency correctness, thread safety, system reliability
+## 🍳 Cooking (Upcoming Systems)
+
+### 🔥 Custom Redis (In Progress)
+- In-memory key-value store with persistence model  
+- Focus: latency, memory layout, and concurrency  
+- Exploring replication + eviction strategies  
+
+### 🤖 Agentic AI Infrastructure
+- LangGraph-based multi-step agent workflows  
+- MCP-driven context orchestration  
+- Goal: reliable, stateful AI systems (not demos)
 
 ---
 
@@ -95,16 +105,9 @@ I design **high-performance backend systems** with strong invariants, concurrenc
   <a href="mailto:agarwalkanishk12345@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://github.com/KanishkKa1/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-black?style=for-the-badge&logo=vercel">
+  </a>
 </p>
-
----
-
-## ⚡ Engineering Philosophy
-
-> “Correctness first. Performance next. Abstractions last.”
-
-- Design with **invariants, not assumptions**
-- Optimize only after measuring
-- Build systems that **fail predictably, not silently**
 
 ---
