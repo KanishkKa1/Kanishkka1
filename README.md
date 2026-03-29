@@ -112,6 +112,10 @@ I build **high-performance backend systems** with strict invariants, concurrency
   </a>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/agarkanishk?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
