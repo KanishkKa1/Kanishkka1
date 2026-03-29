@@ -1,58 +1,53 @@
-# 👋 Kanishk Agarwal
+# 👋 Kanishk Agarwal  
 
-## 🚀 C++ Systems Engineer | Concurrency | AI Infrastructure
+### ⚡ C++ Systems Engineer | Concurrency | AI Infrastructure  
 
 I build **high-performance backend systems** with strict invariants, controlled concurrency, and predictable failure modes — extending into **agentic AI infrastructure and LLM orchestration systems**.
 
-- 🏢 Associate Software Engineer @ Harman International  
-- ⚡ Focus: C++ (17/20), Multithreading, System Design  
-- 🤖 Working with: LangGraph, MCP, AI Agents  
-- 🧠 Approach: Build systems from first principles — not just use abstractions  
-
 ---
 
-## 🚀 Flagship Systems
+## 🚀 Flagship Systems  
 
 ### ⚡ Multithreaded Task Scheduler  
-🔗 https://github.com/KanishkKa1/cpp_TaskScheduler
+🔗 https://github.com/KanishkKa1/cpp_TaskScheduler  
 
-- Thread pool with **bounded task queue (backpressure-aware design)**  
-- Producer–consumer model using `condition_variable` with predicate-based waiting  
-- Deterministic shutdown (no lost tasks, no dangling threads)  
-- Explored trade-offs: **throughput vs fairness**, blocking vs non-blocking APIs  
-- Designed under **high contention scenarios (multiple producers / workers)**  
-
----
-
-### 🔧 Custom STL-like `vector<T>`
-
-- Manual memory management with full **Rule of Five compliance**  
-- Geometric growth strategy → amortized O(1) push_back  
-- Improved **cache locality in sequential access patterns**  
-- Reduced allocation overhead via controlled resizing strategy  
-- Compared behavior against `std::vector` for correctness + performance  
+- Bounded thread pool with **backpressure-aware queue**  
+- Producer–consumer model using `condition_variable` with predicates  
+- Deterministic shutdown → no lost tasks, no dangling threads  
+- Explored **throughput vs fairness trade-offs**  
+- Designed under **high contention (multi-producer / multi-worker)**  
 
 ---
 
-### 🔥 Custom Redis (In Progress — Systems Build Phase)
+### 🔧 Custom STL-like `vector<T>`  
 
-- In-memory key-value store with focus on **latency + memory layout**  
-- Designing **write-ahead logging (WAL)** for durability  
-- Exploring **eviction policies (LRU/LFU)** and memory constraints  
-- Planning **replication + concurrency control mechanisms**  
-- Goal: understand trade-offs behind real-world data stores  
+- Manual memory management (**Rule of Five**)  
+- Amortized O(1) growth via geometric resizing  
+- Improved **cache locality** in sequential workloads  
+- Reduced allocation overhead with optimized growth strategy  
+- Benchmarked behavior vs `std::vector`  
 
 ---
 
-## 📈 Experience
+### 🔥 Custom Redis (Systems Build Phase)  
+
+- In-memory key-value store focused on **latency + memory layout**  
+- Designing **Write-Ahead Logging (WAL)** for durability  
+- Exploring **LRU/LFU eviction strategies**  
+- Planning **replication + concurrency control**  
+- Goal: understand real-world datastore trade-offs  
+
+---
+
+## 📈 Experience  
 
 ### 🏢 Associate Software Engineer — Harman International  
 **Jan 2025 – Present**
 
-- Enforced **system invariants at API boundaries**, preventing invalid state propagation  
-- Reduced workflow latency from **~6s → 0.8s** via system-level optimizations  
-- Improved reliability by eliminating state corruption across async flows  
-- Debugged concurrency + memory issues using **gdb and profiling tools**  
+- Enforced **invariants at API boundaries** → prevented invalid state propagation  
+- Reduced latency from **~6s → 0.8s** via system-level optimizations  
+- Improved reliability by eliminating async state corruption  
+- Debugged concurrency + memory issues using **gdb + profilers**  
 
 ---
 
@@ -60,66 +55,76 @@ I build **high-performance backend systems** with strict invariants, controlled 
 **Jan 2024 – May 2024**
 
 - Reduced inference latency by **~30%**  
-- Built RAG pipelines and computer vision systems  
-- Worked on deployment-oriented ML systems (not just models)  
+- Built RAG pipelines and CV systems  
+- Focused on deployment-ready ML systems  
 
 ---
 
-## ⚙️ Technical Stack
+## ⚙️ Tech Stack  
 
-### Systems
-- C++ (17/20), Multithreading, Concurrency Design  
-- Memory Management, Cache Locality, Performance Optimization  
+**Systems:**  
+C++ (17/20), Multithreading, Concurrency Design, Memory Management  
 
-### AI Infrastructure
-- LangGraph, MCP (Model Context Protocol)  
-- PyTorch, ONNX, YOLOv8  
+**AI Infra:**  
+LangGraph, MCP, PyTorch, ONNX  
 
-### Data & Ops
-- SQL, Docker, Git, MLOps Pipelines  
+**Ops:**  
+SQL, Docker, Git, MLOps  
 
 ---
 
-## 🧠 Engineering Signals
+## 🧠 Engineering Signals  
 
-- Designed systems with **explicit invariants** to eliminate invalid states  
-- Built concurrency-safe workflows under **real contention scenarios**  
-- Focus on **predictable failure modes over silent corruption**  
-- Debugging-first mindset: isolate → reproduce → fix → validate  
+- Designed systems with **explicit invariants**  
+- Built under **real contention scenarios**  
+- Prefer **predictable failures over silent corruption**  
+- Debugging-first approach → isolate → reproduce → fix  
 
 ---
 
-## 🧠 How I Think
-
-When designing systems:
+## 🧠 How I Think  
 
 1. Define invariants first  
 2. Identify failure modes early  
-3. Prefer **bounded systems** over unbounded growth  
-4. Separate **control plane vs execution plane**  
-5. Optimize only after measurement  
+3. Prefer **bounded systems**  
+4. Separate control vs execution planes  
+5. Optimize after measurement  
 
 ---
 
-## ⚡ Engineering Principles (Applied)
+## 📊 GitHub Activity  
 
-- **Correctness > Performance** → enforced via invariants  
-- **Backpressure-aware design** → prevents system overload  
-- **Observability-first systems** → logs, metrics, failure surfaces  
-- Systems should fail **explicitly and predictably**, not silently  
-
----
-
-## 🎯 Open To
-
-- C++ Backend / Systems Engineering Roles  
-- High-performance systems, infra, or platform teams  
-- Work involving concurrency, distributed systems, or AI infrastructure  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishkka1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkka1&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Connect
+## 🧩 Problem Solving  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kanishkaga/  
-- 📧 Email: agarwalkanishk12345@gmail.com  
-- 🌐 Portfolio: https://github.com/KanishkKa1/Portfolio  
+<p align="center">
+  <a href="https://leetcode.com/u/agarkanishk/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/agarkanishk?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🤝 Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanishkaga/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kanishk%20Agarwal-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:agarwalkanishk12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/KanishkKa1/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel">
+  </a>
+</p>
