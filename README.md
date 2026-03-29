@@ -62,14 +62,25 @@ I build **high-performance backend systems** with strict invariants, controlled 
 
 ## ⚙️ Tech Stack  
 
-**Systems:**  
-C++ (17/20), Multithreading, Concurrency Design, Memory Management  
 
-**AI Infra:**  
-LangGraph, MCP, PyTorch, ONNX  
+### ⚙️ Systems
+![C++](https://img.shields.io/badge/C++-17%20%7C%2020-blue?style=for-the-badge&logo=cplusplus)
+![Multithreading](https://img.shields.io/badge/Multithreading-Concurrency-red?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-Core%20%7C%20MVC-purple?style=for-the-badge&logo=dotnet)
 
-**Ops:**  
-SQL, Docker, Git, MLOps  
+### 🤖 AI Systems (Infra-Focused)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-black?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-darkgreen?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?style=for-the-badge&logo=pytorch)
+![ONNX](https://img.shields.io/badge/ONNX-Interop-blue?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-yellow?style=for-the-badge)
+
+### 📊 Data & Ops
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
+![MLOps](https://img.shields.io/badge/MLOps-Pipelines-darkred?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+
 
 ---
 
@@ -95,7 +106,6 @@ SQL, Docker, Git, MLOps
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanishkka1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkka1&theme=tokyonight&hide_border=true" />
 </p>
 
