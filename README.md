@@ -135,7 +135,7 @@ I build **high-performance backend systems** with strict invariants, controlled 
   <a href="mailto:agarwalkanishk12345@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/KanishkKa1/Portfolio">
+  <a href="https://www.kanishkagarwal.dev/">
     <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel">
   </a>
 </p>
