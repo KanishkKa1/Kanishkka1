@@ -104,14 +104,6 @@ I build **high-performance backend systems** with strict invariants, controlled 
 
 ---
 
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkka1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧩 Problem Solving  
 
 <p align="center">
